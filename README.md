@@ -1,2 +1,2 @@
 # fibonacci-c
-fibonacci-series-C-program-usingr-recursion
+fibonacci-series-C-program-using-recursion
